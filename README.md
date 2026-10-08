@@ -12,7 +12,7 @@ Next.js · Supabase · Google Places API · built with Claude Code
 > In the demo, brand names come from public listings and all contact details
 > are fictional sample data.
 
-![Brand detail: outlets, POS, decision-makers and a sample menu](docs/screenshots/brand-detail.png)
+![Brand detail: outlets, POS, decision-makers and a sample menu](docs/brand-detail.png)
 
 ## What it does
 
@@ -25,7 +25,7 @@ Next.js · Supabase · Google Places API · built with Claude Code
 - **Processed log.** Every brand reviewed, with outcome and notes, exportable to CSV.
 - **Last synced.** The header shows when brand data was last refreshed.
 
-![The queue with a brand open](docs/screenshots/queue-with-detail.png)
+![The queue with a brand open](docs/queue-with-detail.png)
 
 ## How it works
 
